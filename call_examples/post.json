@@ -1,0 +1,191 @@
+{
+    "devices": {
+        "thermostats": {
+            "F2tFuOEes_fjqfs6P1TDIDsktDB5sbk5": {
+                "humidity": 50,
+                "locale": "en-US",
+                "temperature_scale": "F",
+                "is_using_emergency_heat": false,
+                "has_fan": true,
+                "software_version": "5.6.1",
+                "has_leaf": true,
+                "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vAlLe2XeROUrA",
+                "device_id": "F2tFuOEes_fjqfs6P1TDIDsktDB5sbk5",
+                "name": "Driveway (205C)",
+                "can_heat": true,
+                "can_cool": true,
+                "target_temperature_c": 20,
+                "target_temperature_f": 68,
+                "target_temperature_high_c": 26,
+                "target_temperature_high_f": 79,
+                "target_temperature_low_c": 19,
+                "target_temperature_low_f": 66,
+                "ambient_temperature_c": 21,
+                "ambient_temperature_f": 70,
+                "away_temperature_high_c": 24,
+                "away_temperature_high_f": 76,
+                "away_temperature_low_c": 12.5,
+                "away_temperature_low_f": 55,
+                "eco_temperature_high_c": 24,
+                "eco_temperature_high_f": 76,
+                "eco_temperature_low_c": 12.5,
+                "eco_temperature_low_f": 55,
+                "is_locked": false,
+                "locked_temp_min_c": 20,
+                "locked_temp_min_f": 68,
+                "locked_temp_max_c": 22,
+                "locked_temp_max_f": 72,
+                "sunlight_correction_active": false,
+                "sunlight_correction_enabled": true,
+                "structure_id": "EsiC1DXBYo3i-Fm3KAl624pMJANA8fK9DD2F23-NQrQ48ssOfVHp3g",
+                "fan_timer_active": false,
+                "fan_timer_timeout": "1970-01-01T00:00:00.000Z",
+                "fan_timer_duration": 15,
+                "previous_hvac_mode": "",
+                "hvac_mode": "heat",
+                "time_to_target": "~0",
+                "time_to_target_training": "ready",
+                "where_name": "Driveway",
+                "label": "205C",
+                "name_long": "Driveway Thermostat (205C)",
+                "is_online": true,
+                "hvac_state": "off"
+            }
+        }
+    },
+    "structures": {
+        "EsiC1DXBYo3i-Fm3KAl624pMJANA8fK9DD2F23-NQrQ48ssOfVHp3g": {
+            "name": "Dummy Home",
+            "country_code": "US",
+            "time_zone": "America/Los_Angeles",
+            "away": "home",
+            "thermostats": [
+                "F2tFuOEes_fjqfs6P1TDIDsktDB5sbk5"
+            ],
+            "structure_id": "EsiC1DXBYo3i-Fm3KAl624pMJANA8fK9DD2F23-NQrQ48ssOfVHp3g",
+            "wheres": {
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDbb0T0I049IQ": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDbb0T0I049IQ",
+                    "name": "Attic"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vCkDZ6eIRS8bw": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vCkDZ6eIRS8bw",
+                    "name": "Back Door"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDanZ79LkwpSw": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDanZ79LkwpSw",
+                    "name": "Backyard"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vCZJHUZfvw22w": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vCZJHUZfvw22w",
+                    "name": "Basement"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vCzIdZ84rN11w": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vCzIdZ84rN11w",
+                    "name": "Bathroom"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDe105Qkg3YBA": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDe105Qkg3YBA",
+                    "name": "Bedroom"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBGI24ZxJ76QA": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBGI24ZxJ76QA",
+                    "name": "Deck"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vA3tBW6WrmeVA": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vA3tBW6WrmeVA",
+                    "name": "Den"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBGQOp0gAebBw": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBGQOp0gAebBw",
+                    "name": "Dining Room"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBL_X3MLlxcyg": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBL_X3MLlxcyg",
+                    "name": "Downstairs"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vAlLe2XeROUrA": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vAlLe2XeROUrA",
+                    "name": "Driveway"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDKgMr37HW-mw": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDKgMr37HW-mw",
+                    "name": "Entryway"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBRFpQa0Uypmw": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBRFpQa0Uypmw",
+                    "name": "Family Room"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vAcv0LUBqf4OQ": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vAcv0LUBqf4OQ",
+                    "name": "Front Door"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vCGkqIO0SX1vg": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vCGkqIO0SX1vg",
+                    "name": "Front Yard"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vAiXSLiG85a_g": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vAiXSLiG85a_g",
+                    "name": "Garage"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDeUWuCipYitg": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDeUWuCipYitg",
+                    "name": "Guest House"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vA41lPOmx1oNQ": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vA41lPOmx1oNQ",
+                    "name": "Guest Room"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBYmIwXJ2xoTw": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBYmIwXJ2xoTw",
+                    "name": "Hallway"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDSAS0J-95dfQ": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDSAS0J-95dfQ",
+                    "name": "Kids Room"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vAk8juNw8JkRQ": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vAk8juNw8JkRQ",
+                    "name": "Kitchen"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vB5COYAFgyvYA": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vB5COYAFgyvYA",
+                    "name": "Living Room"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBGaEBdf3EuZA": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBGaEBdf3EuZA",
+                    "name": "Master Bedroom"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vAgbsIHZQp_Vw": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vAgbsIHZQp_Vw",
+                    "name": "Office"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vD32KFYYJuqfw": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vD32KFYYJuqfw",
+                    "name": "Outside"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBuPabLpEJ_VQ": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBuPabLpEJ_VQ",
+                    "name": "Patio"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDb0Elr6TqmRg": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDb0Elr6TqmRg",
+                    "name": "Shed"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDP6NPkOrPTaA": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vDP6NPkOrPTaA",
+                    "name": "Side Door"
+                },
+                "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBTRqb-HisShg": {
+                    "where_id": "0yxa236Wp7AJ5zVQ4bBfyQyFlR9F3W452OB19RGu_vBTRqb-HisShg",
+                    "name": "Upstairs"
+                }
+            }
+        }
+    },
+    "metadata": {
+        "access_token": "c.HQE4Y3UjzKYv56Tu8akkVwEHVUE259JUFAIysbEgcP30o9hH0rLSHMr2Qsi1x5pIH6sDmVJrdSUHZJ972QCGDt2jWQKOuruH8ZO6O6ZbPV1mw3DRJns7iGgBQnsLbrlDR5q6hnwBGbPlQsGP",
+        "client_version": 1,
+        "user_id": "z.1.1.nWUTjiW1aMORPSw5m/bZW/X62NOEwOt1Ei/5V1BUyuY="
+    }
+}
